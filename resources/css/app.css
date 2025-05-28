@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.drawer {
+    transition: transform 0.3s ease-in-out;
+}
+.drawer.closed {
+    transform: translateX(-100%);
+}
+.drawer.open {
+    transform: translateX(0);
+}
+.overlay {
+    transition: opacity 0.3s ease-in-out;
+}
+.overlay.closed {
+    opacity: 0;
+    pointer-events: none;
+}
+.overlay.open {
+    opacity: 0.5;
+    pointer-events: all;
+}

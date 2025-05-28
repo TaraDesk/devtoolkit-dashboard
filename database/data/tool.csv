@@ -1,0 +1,59 @@
+name;summary;description;category;tags;links;icon_image_links
+GIMP;Open-source image editor;A powerful alternative to Photoshop with advanced editing features.;Design;photo-editing,graphics;https://www.gimp.org/;https://logo.clearbit.com/gimp.org
+Inkscape;Vector graphics editor;Create and edit scalable vector illustrations.;Design;vector,illustration;https://inkscape.org/;https://logo.clearbit.com/inkscape.org
+Blender;3D creation suite;Free and open-source 3D modeling, animation, and rendering.;Design;3D,animation;https://www.blender.org/;https://logo.clearbit.com/blender.org
+Krita;Digital painting software;Designed for artists, with brush engines and HDR support.;Design;drawing,art;https://krita.org/;https://logo.clearbit.com/krita.org
+Darktable;Photo workflow app;Open-source photography workflow application.;Design;photo-editing,RAW;https://www.darktable.org/;https://logo.clearbit.com/darktable.org
+Excalidraw;Hand-drawn diagrams;Virtual whiteboard for sketching diagrams.;Design;drawing,whiteboard;https://excalidraw.com/;https://logo.clearbit.com/excalidraw.com
+Photopea;Online image editor;Browser-based alternative to Photoshop.;Design;photo-editing,graphics;https://www.photopea.com/;https://logo.clearbit.com/photopea.com
+DaVinci Resolve;Video editing software;Professional-grade video editing and color correction.;Design;video-editing,color-grading;https://www.blackmagicdesign.com/products/davinciresolve/;https://logo.clearbit.com/blackmagicdesign.com
+Audacity;Audio editor;Record and edit audio tracks.;Design;audio,editing;https://www.audacityteam.org/;https://logo.clearbit.com/audacityteam.org
+OBS Studio;Screen recorder;Livestreaming and screen recording tool.;Productivity;streaming,recording;https://obsproject.com/;https://logo.clearbit.com/obsproject.com
+LibreOffice;Office suite;Free alternative to Microsoft Office.;Productivity;docs,spreadsheets;https://www.libreoffice.org/;https://logo.clearbit.com/libreoffice.org
+Notepad++;Code editor;Lightweight text and code editor.;Programming;editor,IDE;https://notepad-plus-plus.org/;https://logo.clearbit.com/notepad-plus-plus.org
+VS Code;Code editor;Extensible IDE with Git integration.;Programming;editor,IDE;https://code.visualstudio.com/;https://logo.clearbit.com/code.visualstudio.com
+Git;Version control system;Track changes in source code.;Programming;version-control,cli;https://git-scm.com/;https://logo.clearbit.com/git-scm.com
+Github;Code hosting platform;Free public repositories for projects.;Programming;git,collaboration;https://github.com/;https://logo.clearbit.com/github.com
+GitLab;DevOps platform;Free CI/CD and code hosting.;Programming;git,devops;https://gitlab.com/;https://logo.clearbit.com/gitlab.com
+TinyPNG;Image compressor;Compress PNG/JPG files online.;Design;images,optimization;https://tinypng.com/;https://logo.clearbit.com/tinypng.com
+Unsplash;Free stock photos;High-quality royalty-free images.;Design;photos,stock;https://unsplash.com/;https://logo.clearbit.com/unsplash.com
+Pixabay;Free images/videos;CC0-licensed photos, vectors, and videos.;Design;photos,stock;https://pixabay.com/;https://logo.clearbit.com/pixabay.com
+Pexels;Free stock photos;Curated free photos and videos.;Design;photos,stock;https://www.pexels.com/;https://logo.clearbit.com/pexels.com
+Color Hunt;Color palettes;Curated color schemes for designers.;Design;colors,palettes;https://colorhunt.co/;https://logo.clearbit.com/colorhunt.co
+Coolors;Color palette generator;Generate harmonious color schemes.;Design;colors,palettes;https://coolors.co/;https://logo.clearbit.com/coolors.co
+Adobe Color;Color wheel tool;Create and explore color harmonies.;Design;colors,palettes;https://color.adobe.com/;https://logo.clearbit.com/adobe.com
+FontAwesome;Free icons;Thousands of scalable vector icons.;Design;icons,UI;https://fontawesome.com/;https://logo.clearbit.com/fontawesome.com
+Google Fonts;Free web fonts;Open-source fonts for websites.;Design;fonts,typography;https://fonts.google.com/;https://logo.clearbit.com/fonts.google.com
+Figma;UI design tool (free tier);Free for individual use with collaboration.;Design;UI,prototyping;https://www.figma.com/;https://logo.clearbit.com/figma.com
+Canva;Graphic design (free tier);Free templates for social media/graphics.;Design;templates,graphics;https://www.canva.com/;https://logo.clearbit.com/canva.com
+Jupyter Notebook;Interactive coding;Create and share live code notebooks.;Programming;data-science,Python;https://jupyter.org/;https://logo.clearbit.com/jupyter.org
+Replit;Online IDE;Code in 50+ languages in the browser.;Programming;IDE,cloud;https://replit.com/;https://logo.clearbit.com/replit.com
+CodePen;Frontend playground;HTML/CSS/JS sandbox for testing ideas.;Programming;frontend,sandbox;https://codepen.io/;https://logo.clearbit.com/codepen.io
+Glitch;Web app prototyping;Remix and deploy Node.js apps.;Programming;web-dev,prototyping;https://glitch.com/;https://logo.clearbit.com/glitch.com
+StackBlitz;Online VS Code;Develop full-stack apps in the browser.;Programming;IDE,frontend;https://stackblitz.com/;https://logo.clearbit.com/stackblitz.com
+JSON Formatter;JSON prettifier;Format and validate JSON data.;Programming;json,tools;https://jsonformatter.org/;https://logo.clearbit.com/jsonformatter.org
+Regex101;Regex tester;Debug regular expressions online.;Programming;regex,debugging;https://regex101.com/;https://logo.clearbit.com/regex101.com
+SQLite;Lightweight database;Serverless, self-contained SQL DB.;Programming;database,sql;https://www.sqlite.org/;https://logo.clearbit.com/sqlite.org
+DBeaver;Database manager;Universal GUI for databases.;Programming;database,sql;https://dbeaver.io/;https://logo.clearbit.com/dbeaver.io
+Mozilla MDN;Web docs;Comprehensive web development resources.;Programming;documentation,web-dev;https://developer.mozilla.org/;https://logo.clearbit.com/developer.mozilla.org
+W3Schools;Web tutorials;Beginner-friendly coding guides.;Programming;tutorials,web-dev;https://www.w3schools.com/;https://logo.clearbit.com/w3schools.com
+Postman;API testing (free tier);Test and document APIs.;Programming;API,testing;https://www.postman.com/;https://logo.clearbit.com/postman.com
+VLC;Media player;Plays almost any video/audio format.;Productivity;media,player;https://www.videolan.org/vlc/;https://logo.clearbit.com/videolan.org
+7-Zip;File archiver;High-compression file utility.;Productivity;compression,tools;https://www.7-zip.org/;https://logo.clearbit.com/7-zip.org
+Bitwarden;Password manager;Open-source and secure.;Productivity;security,passwords;https://bitwarden.com/;https://logo.clearbit.com/bitwarden.com
+KeePass;Password vault;Local, encrypted password storage.;Productivity;security,passwords;https://keepass.info/;https://logo.clearbit.com/keepass.info
+Trello;Kanban boards (free tier);Organize tasks visually.;Productivity;kanban,tasks;https://trello.com/;https://logo.clearbit.com/trello.com
+Notion;Workspace (free tier);Notes, docs, and databases.;Productivity;notes,collaboration;https://www.notion.so/;https://logo.clearbit.com/notion.so
+Obsidian;Markdown notes;Local-first knowledge base.;Productivity;notes,markdown;https://obsidian.md/;https://logo.clearbit.com/obsidian.md
+Zotero;Reference manager;Collect and cite research.;Productivity;research,citations;https://www.zotero.org/;https://logo.clearbit.com/zotero.org
+Calibre;E-book manager;Organize and convert e-books.;Productivity;ebooks,library;https://calibre-ebook.com/;https://logo.clearbit.com/calibre-ebook.com
+Sumatra PDF;PDF reader;Lightweight and fast.;Productivity;pdf,reader;https://www.sumatrapdfreader.org/;https://logo.clearbit.com/sumatrapdfreader.org
+Greenshot;Screenshot tool;Capture and annotate screenshots.;Productivity;screenshots,tools;https://getgreenshot.org/;https://logo.clearbit.com/getgreenshot.org
+ShareX;Screen capture;Advanced screenshot and recording.;Productivity;screenshots,recording;https://getsharex.com/;https://logo.clearbit.com/getsharex.com
+WinSCP;SFTP/FTP client;Transfer files securely.;Productivity;ftp,file-transfer;https://winscp.net/;https://logo.clearbit.com/winscp.net
+FileZilla;FTP client;Open-source file transfers.;Productivity;ftp,file-transfer;https://filezilla-project.org/;https://logo.clearbit.com/filezilla-project.org
+Thunderbird;Email client;Manage multiple email accounts.;Productivity;email,client;https://www.thunderbird.net/;https://logo.clearbit.com/thunderbird.net
+Signal;Encrypted messaging;Private chats and calls.;Productivity;messaging,security;https://signal.org/;https://logo.clearbit.com/signal.org
+ProtonMail;Secure email;End-to-end encrypted emails.;Productivity;email,security;https://proton.me/mail;https://logo.clearbit.com/proton.me
+Joplin;Note-taking app;Markdown notes with sync.;Productivity;notes,markdown;https://joplinapp.org/;https://logo.clearbit.com/joplinapp.org
+Standard Notes;Encrypted notes;Simple, private note-taking.;Productivity;notes,security;https://standardnotes.com/;https://logo.clearbit.com/standardnotes.com
